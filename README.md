@@ -1,0 +1,1 @@
+Was created Collection **cars**, **carSet**, **carsQueue**. Using interface Comparator and Comparable.  
